@@ -23,14 +23,14 @@ body {
 	background-color: #FFFFFF !important;
 }
 .language-level h6 {
-  color: #FFFFFF ! important /* Change this HEX to your desired color */
+  color: #FFFFFF /* Change this HEX to your desired color */
 }
 .language-level .native-text {
-  color: #FFFFFF !important
+  color: #FFFFFF 
 } 
 
 .language-level .advanced-text {
-  color: #FFFFFF !important
+  color: #FFFFFF
 } 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
