@@ -62,7 +62,7 @@ h2 {
 
 .biography-details li:before {
 	color: #AF0B0B;
-	font-weight: bolder
+	font-weight: bolder !important
 }
 
 .biography-details li, .skill-list li {
