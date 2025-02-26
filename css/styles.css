@@ -11,6 +11,18 @@ body {
 	background-color: #f8f8fc;
 }
 
+.Languagelevel .language-progress {
+	background-color: #4537A9 !important;
+}
+
+.language-level {
+	background-color: #F1DFDF !important;
+}
+
+.language-progress {
+	background-color: #AF0B0B !important;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
     background-color: #AF0B0B;	
@@ -36,7 +48,7 @@ body {
 
 }
 
-.biography-details li::before {
+.biography-details li:before {
 	color: #EE7623;
 }
 
