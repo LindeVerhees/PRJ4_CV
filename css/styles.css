@@ -12,17 +12,26 @@ body {
 }
 
 .Languagelevel .language-progress {
-	background-color: #4537A9 !important;
-}
-
-.language-level {
-	background-color: #F1DFDF !important;
-}
-
-.language-progress {
 	background-color: #AF0B0B !important;
 }
 
+.language-level {
+	background-color: #FFFFFF !important;
+}
+
+.language-progress {
+	background-color: #FFFFFF !important;
+}
+.language-level h6 {
+  color: #FFFFFF ! important /* Change this HEX to your desired color */
+}
+.language-level .native-text {
+  color: #FFFFFF !important
+} 
+
+.language-level .advanced-text {
+  color: #FFFFFF !important
+} 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
     background-color: #AF0B0B;	
