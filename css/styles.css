@@ -10,9 +10,9 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
-h1, h2, h3, h4, h5, h6 {
-  color: #AF0B0B !important; /* Change this HEX code to any color you like */
-} 
+h2 {
+  color: #AF0B0B !important;
+}
 .Languagelevel .language-progress {
 	background-color: #FFFFFF !important;
 }
