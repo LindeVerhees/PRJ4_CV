@@ -35,6 +35,12 @@ h2 {
 .language-level .advanced-text {
   color: #FFFFFF
 } 
+.Linde-Verhees {
+	font-family: 'anton'; 
+} 
+.fst-italic.tagline {
+	font-family: 'open sans';
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
     background-color: #AF0B0B;	
@@ -79,4 +85,5 @@ h2 {
 .title-one {
     font-weight: bold;
 }
+
 
